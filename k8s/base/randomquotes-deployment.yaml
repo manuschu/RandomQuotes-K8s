@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: randomquotes-web
-          image: manuschu/purp:latest
+          image: manuschu/purp:0.1
           resources:
             requests:
               memory: "64Mi"
